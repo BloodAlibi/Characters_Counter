@@ -1,5 +1,5 @@
 # Characters Counter
-**Characters Counter is a Python tool to count the number of characters of a given sentence.** For example, it will return 5 characters with an input "Hello". It will also indicate the numbers of each character, such as 1x"h", 1x"e", 1x"o" and 2x"l".
+**Characters Counter is a Python tool to count the number of characters of a given sentence.** For example, it will return 5 characters with an input "Hello". It will also indicate the amount of each character, such as 1x"h", 1x"e", 1x"o" and 2x"l".
 
 ## How to use
 
